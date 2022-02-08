@@ -1,8 +1,10 @@
-Repositorio de la materia de Intro IS
+Repositorio de la materia Paradigmas de Programacion
 
 Adolfo Centeno
 
-Fecha: 12-ago-2020
+Fecha: 07-feb-2022
+
+[Semana 2](url)
 
 
 
