@@ -1,5 +1,5 @@
 Repositorio de la materia Paradigmas de Programacion
-
+[Lista Clase](https://docs.google.com/spreadsheets/d/1aOzj7qcsQjRdSnlTtJPkq-xHQeIXSgOwAYhze_f7lys/edit?usp=sharing)
 Adolfo Centeno
 
 Fecha: 07-feb-2022
