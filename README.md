@@ -1,4 +1,4 @@
-# Repositorio de la materia Paradigmas de Programacion [Lista Clase](https://docs.google.com/spreadsheets/d/1aOzj7qcsQjRdSnlTtJPkq-xHQeIXSgOwAYhze_f7lys/edit?usp=sharing)
+# Repositorio de la materia Aspectos Hum de IS [Lista Clase](https://docs.google.com/spreadsheets/d/1aOzj7qcsQjRdSnlTtJPkq-xHQeIXSgOwAYhze_f7lys/edit?usp=sharing)
 
 # Adolfo Centeno
 
