@@ -1,4 +1,4 @@
-# Repositorio de la materia Aspectos Hum de IS [Lista Clase](https://docs.google.com/spreadsheets/d/1aOzj7qcsQjRdSnlTtJPkq-xHQeIXSgOwAYhze_f7lys/edit?usp=sharing)
+# Repositorio de procesos de IS [Lista Clase](https://docs.google.com/spreadsheets/d/12R6-lL-LJYyFkwUAF4NN_FbguMhTwEF1dgzF-fNQ94g/edit?usp=sharing)
 
 # Adolfo Centeno
 
