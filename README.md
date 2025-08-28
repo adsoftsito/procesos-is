@@ -2,9 +2,8 @@
 
 # Adolfo Centeno
 
-Fecha: 07-feb-2022
 
-Tema 1 [Introduccion a la IS, PSP nivel 0](https://github.com/adsoftsito/acenteno_introing/blob/master/w2/iis_sesion_2.pdf)
+[PSP nivel 0, Program 1a](https://docs.google.com/presentation/d/1SxIuXkV7G3TuZkk-LIg-rOY59batTzvvd4xnkRlu2qE/edit?usp=sharing)
 
 
 
